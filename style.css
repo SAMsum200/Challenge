@@ -1,0 +1,144 @@
+body{
+    margin: 2rem;
+    padding: 0;
+    display: flex;
+}
+.person-name{
+    opacity: 88%;
+    margin: 0;
+    position: relative;
+    top: 2.2rem;
+    color: white;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.para{
+opacity: 70%;
+position: relative;
+top: 2.2rem;
+margin-top: 0;
+color: white;
+font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.heading{
+    opacity: 93%;
+    clear: left;
+    margin-bottom: 0;
+    font-size: 1.5rem;
+    color: white;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.p{
+    margin: 0;
+  
+    
+}
+.s{
+    top: 1rem;
+}
+.voileth{
+background-color: hsl(263, 55%, 52%);
+
+padding: 0 1.6rem 4rem 1.6rem ;
+width: 44%;
+height: 16.3rem;
+border-radius: 1rem;
+float: left;
+
+
+}
+.quotations{
+    position: absolute;
+    top: 2rem;
+    left: 26rem;
+height: 8.5rem;
+}
+.profile-img{
+    float: left;
+    margin: 1.3rem;
+    border: rgb(180, 59, 180) solid;
+    border-radius: 100px;
+}
+
+
+
+.grayh{
+    background-color: hsl(219, 29%, 14%);
+    padding: 0 1.6rem 4rem 1.6rem ;
+    width: 40%;
+    height: 16.3rem;
+    position: absolute;
+    top: 24rem;
+    left: 24.5rem;
+    border-radius: 1rem;
+  
+    
+}
+.whitesquare{
+    background-color: hsl(0, 0%, 100%);
+    width: 20%;
+    position: absolute;
+    top: 24.4rem;
+    padding: 0 1.6rem 4rem 1.6rem ;
+    height: 15.9rem;
+    border-radius: 1rem;
+    margin-left: 0rem;
+    box-shadow: 1px 0px 14px rgb(170, 170, 170) ;
+    float: left;
+    
+}
+.graysquare{
+background-color: hsl(217, 19%, 35%);
+width: 20%;
+display: inline-block;
+padding: 0 1.6rem 4rem 1.6rem ;
+height: 16.3rem;
+border-radius: 1rem;
+margin-left: 2rem;
+float: left;
+
+}
+.unique{
+    background-color: #fff;
+    display: inline-block;
+    width: 18.9%;
+    padding: 0 1.6rem 4rem 1.6rem ;
+    margin-left: 2rem;
+    height: 38.2rem;
+    border-radius: 1rem;
+    box-shadow: 1px 0px 14px rgb(170, 170, 170) ;
+    
+    
+}
+.person-nameW{
+    opacity: 88%;
+    margin: 0;
+    position: relative;
+    top: 2.2rem;
+    color: black;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.paraW{
+    opacity: 70%;
+position: relative;
+top: 2.2rem;
+margin-top: 0;
+color: black;
+font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.paraWX{
+    opacity: 70%;
+position: relative;
+top: 1rem;
+margin-top: 0;
+color: black;
+font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.headingW{
+    opacity: 93%;
+    clear: left;
+    margin-bottom: 0;
+    font-size: 1.5rem;
+    color: rgb(0, 0, 0);
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
